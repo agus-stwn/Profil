@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+.jumbotron {
+  background: linear-gradient;
+  background-size: cover;
+  background-position: center;
+  color: black;
+}
